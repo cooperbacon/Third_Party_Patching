@@ -20,7 +20,8 @@
   "114.0.1823.67": {
     "url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a559e5fe-83de-4309-9079-97906d3c655a/MicrosoftEdgeEnterpriseX64.msi",
     "size": 107880448,
-    "file_type": ".msi"
+    "file_type": ".msi",
+    "checksum": "45E0C200E2F95AE77D5BDBDBCA2DE106DBFB210246741DE0BF3F3369CC620540"
   },
   "92.0.902.55": {
     "url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab3145f9-eb8d-4fc9-94fc-4a240d1aaf80/MicrosoftEdgeEnterpriseX64.msi",
