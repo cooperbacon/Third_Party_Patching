@@ -1,2 +1,5 @@
 hidden_packages:
   - cutepdf
+
+update_methods:
+  - google-chrome: uptodown
