@@ -6,7 +6,7 @@ update_info:
     method: uptodown
     version_page_url: https://google-chrome.en.uptodown.com/windows
     download_page_url: https://google-chrome.en.uptodown.com/windows/download
-  microsoft-edge:
-    method: uptodown
-    version_page_url: https://microsoft-edge.en.uptodown.com/windows
-    download_page_url: https://microsoft-edge.en.uptodown.com/windows/download
+  #microsoft-edge:
+  #  method: uptodown
+  #  version_page_url: https://microsoft-edge.en.uptodown.com/windows
+  #  download_page_url: https://microsoft-edge.en.uptodown.com/windows/download
