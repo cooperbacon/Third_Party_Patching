@@ -6,8 +6,8 @@
     "creator": "Microsoft",
     "116.0.1938": {
         "url": "https://dw.uptodown.com/dwn/EIGVpmr1zx5GKoIvsvkJR8iOKv45SUx4Pkoy_qIIfq9-EkPDIzh2g_8sBfVerhSjJVLawuNuXFDgf8nSZvw8woLJ7xZpCA1eN1seqXXBvET8zE-yguRVXSa629-gLbHo/YhBcTCK9tzNqps7RMJMn6E25MTdv3vAOEMv9dWI4hEYhtCjs9oLriVrUcygsNhc-e7Qv4DR778CyE4hzqxWcT4FmvbzZiBMznfylHwzYmmBqQ2dWueD7GnlBSzQ6iCwQ/jQsSRSXOCZMx_4S85RInhZLNV0PbmNrHKFbQYbPDIzAbpW3gD4ltUG3nHvrx8Yh3GVqzNbJdxsVyeeLZkIemrHB3qG-uhaQK1rAF7aI-KfI=/.",
-        "file_type": "<FILE_TYPE>",
-        "checksum": "<CHECKSUM>",
-        "size": 0
+        "file_type": ".exe",
+        "checksum": "12345abc",
+        "size": 10000
     }
 }
