@@ -10,3 +10,15 @@ update_info:
     method: uptodown
     version_page_url: https://microsoft-edge.en.uptodown.com/windows
     download_page_url: https://microsoft-edge.en.uptodown.com/windows/download
+  firefox:
+    method: uptodown
+    version_page_url: https://mozilla-firefox.en.uptodown.com/windows
+    download_page_url: https://mozilla-firefox.en.uptodown.com/windows/download
+  1-password:
+    method: uptodown
+    version_page_url: https://1password.en.uptodown.com/windows
+    download_page_url: https://1password.en.uptodown.com/windows/download
+  brave:
+    method: uptodown
+    version_page_url: https://brave-browser.en.uptodown.com/windows
+    download_page_url: https://brave-browser.en.uptodown.com/windows/download
