@@ -267,8 +267,8 @@
     },
     "116.0.3": {
         "url": "https://dw.uptodown.com/dwn/8ZBzFqJ3Q3W2HdhhDYTR4sqJX25kuNv_WfOY7TakNSIBYEsO8i85h2BQrum5gcEusAQPUaTgXaW30hT9Mo6cFzoHF3fCwUkCb4yeqUUkD93vmhn5tJw5YORTIVrQlpNq/uhK2V_B0lfstOw7pGQc8aPneazxxolaKI9J6wHugBcf189ILz80vtkEs4pyudFpOzEcnlmt4OzVBi4H_Ogb2kkveYr8Tc8Tp7pL0AAAhvz4TpcMNrAts_wYdp1ysjTXB/57vUhOO2zSt84m3AzWY3tW28tHEEAPaxGQE1Dz0PAIfuR7qKZgHLeiOhZn-_El0y5LZiy8tNNdCVtTKPr5qJ9w==/",
-        "file_type": "<FILE_TYPE>",
-        "checksum": "<CHECKSUM>",
-        "size": "<SIZE>"
+        "file_type": ".msi",
+        "checksum": "0",
+        "size": "0"
     }
 }
