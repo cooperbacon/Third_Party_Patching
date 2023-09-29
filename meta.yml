@@ -22,3 +22,7 @@ update_info:
     method: uptodown
     version_page_url: https://brave-browser.en.uptodown.com/windows
     download_page_url: https://brave-browser.en.uptodown.com/windows/download
+  notepad++:
+    method: uptodown
+    version_page_url: https://notepad.en.uptodown.com/windows
+    download_page_url: https://notepad.en.uptodown.com/windows/download
