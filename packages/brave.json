@@ -721,8 +721,8 @@
     },
     "1.57.57": {
         "url": "https://laptop-updates.brave.com/download/UPT818.",
-        "file_type": "<FILE_TYPE>",
-        "checksum": "<CHECKSUM>",
-        "size": "<SIZE>"
+        "file_type": ".exe",
+        "checksum": "0",
+        "size": "0"
     }
 }
