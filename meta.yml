@@ -1,5 +1,9 @@
 hidden_packages:
-  - cutepdf
+  - libreoffice
+  - mysql-workbench
+  - putty
+  - ultrasearch
+  - vysor
 
 update_info:
   #google-chrome:
