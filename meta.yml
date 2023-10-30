@@ -4,6 +4,7 @@ hidden_packages:
   - putty
   - ultrasearch
   - vysor
+  - discord
 
 update_info:
   #google-chrome:
