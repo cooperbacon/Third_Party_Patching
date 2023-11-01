@@ -8,6 +8,8 @@ hidden_packages:
   - active-perl
   - android-studio-portable
   - atom-portable
+  - audacity-portable
+  - autoruns
 
 update_info:
   #google-chrome:
