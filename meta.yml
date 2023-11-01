@@ -5,6 +5,9 @@ hidden_packages:
   - ultrasearch
   - vysor
   - discord
+  - active-perl
+  - android-studio-portable
+  - atom-portable
 
 update_info:
   #google-chrome:

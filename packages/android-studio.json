@@ -1,0 +1,30 @@
+{
+  "package_name": "android-studio",
+  "display_name": "Android Studio",
+  "aliases": [
+    "android-studio"
+  ],
+  "exec_name": "java",
+  "portable": false,
+  "creator": "Google, JetBrains",
+  "description": "Android Studio is the official integrated development environment for Google's Android operating system.",
+  "latest_version": "2022.3.1.20",
+  "threads": 8,
+  "iswitches": [
+    "/S"
+  ],
+  "uswitches": [
+    "/S"
+  ],
+  "autoupdate": {
+    "download_page": "https://developer.android.com/studio",
+    "download_url": "https://redirector.gvt1.com/edgedl/android/studio/install/<version>/android-studio-<version>-windows.exe",
+    "regex": "href=\"https://redirector\\.gvt1\\.com/edgedl/android/studio/install/(\\d+\\.\\d+\\.\\d+\\.\\d+)/android-studio"
+  },
+  "2022.3.1.20": {
+    "url": "https://redirector.gvt1.com/edgedl/android/studio/install/2022.3.1.20/android-studio-2022.3.1.20-windows.exe",
+    "size": 974525224,
+    "checksum": "214FC7339060990D615BB02F2576474A3D6C152249FB67B03124162E111DA4C7",
+    "file_type": ".exe"
+  }
+}

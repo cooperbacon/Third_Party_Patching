@@ -1,0 +1,28 @@
+{
+  "package_name": "adobe-reader",
+  "display_name": "Adobe Acrobat Reader DC",
+  "aliases": [
+    "adobe-reader"
+  ],
+  "exec_name": "AcroRd32",
+  "portable": false,
+  "creator": "Adobe",
+  "description": "Adobe Acrobat Reader DC software is the free global standard for reliably viewing",
+  "latest_version": "23.006.20360",
+  "threads": 8,
+  "iswitches": [
+    "/sAll"
+  ],
+  "uswitches": [],
+  "autoupdate": {
+    "download_page": "https://adobe-reader.en.softonic.com/download",
+    "download_url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/<version-no-dot>/AcroRdrDC<version-no-dot>_en_US.exe",
+    "regex": "(21\\.\\d+\\.\\d+)"
+  },
+  "23.006.20360": {
+    "url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620360/AcroRdrDC2300620360_en_US.exe",
+    "size": 0,
+    "checksum": "0",
+    "file_type": ".exe"
+  }
+}
