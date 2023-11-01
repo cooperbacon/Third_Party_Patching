@@ -8,7 +8,7 @@
   "portable": false,
   "creator": "Dylan Field",
   "description": "Figma is a vector graphics editor and prototyping tool.",
-  "latest_version": "93.4.0",
+  "latest_version": "116.14.7.0",
   "threads": 8,
   "iswitches": [
     "/s",
@@ -35,10 +35,10 @@
     "download_url": "https://www.figma.com/download/desktop/win",
     "regex": "Figma (\\d+\\.\\d+\\.\\d+)"
   },
-  "93.4.0": {
+  "116.14.7.0": {
     "url": "https://www.figma.com/download/desktop/win",
-    "size": 83313888,
-    "checksum": "D1A240B28E21D495C3FBB007DAF893A315844C7D4788EFEDE7476F59667275CE",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".exe"
   }
 }

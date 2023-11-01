@@ -8,7 +8,7 @@
   "portable": false,
   "creator": "ActiveState",
   "description": "ActivePerl is used to develop both commercial and non-commercial applications, scripts, APIs and other code for individual developers and organizations",
-  "latest_version": "5.32",
+  "latest_version": "5.36",
   "threads": 8,
   "iswitches": [],
   "uswitches": [],
@@ -17,10 +17,10 @@
     "download_url": "",
     "regex": ""
   },
-  "5.28": {
-    "url": "https://cli-msi.s3.amazonaws.com/ActivePerl-5.28.msi",
-    "size": 5787648,
-    "checksum": "any",
+  "5.36": {
+    "url": "https://state-tool.s3.amazonaws.com/remote-installer/release/windows-amd64/state-remote-installer.exe",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".msi"
   }
 }

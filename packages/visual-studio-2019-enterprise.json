@@ -19,8 +19,8 @@
   },
   "16.11": {
     "url": "https://aka.ms/vs/16/release/vs_enterprise.exe",
-    "size": 1465408,
-    "checksum": "034A613542E782DA8FFE06D09C20983A31346ADC5D0349100C8503C6FF3A4351",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".exe"
   }
 }

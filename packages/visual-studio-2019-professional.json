@@ -19,8 +19,8 @@
   },
   "16.11": {
     "url": "https://aka.ms/vs/16/release/vs_professional.exe",
-    "size": 1464784,
-    "checksum": "10D06C736307365956CB371F2F4886B7213557EC99DE4265CCF5C140DC2426CD",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".exe"
   }
 }

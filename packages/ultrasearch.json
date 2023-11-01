@@ -8,7 +8,7 @@
   "portable": false,
   "creator": "JAM Software",
   "description": "UltraSearch Free enables you to group files in file type groups and search entire groups.",
-  "latest_version": "3.3.1",
+  "latest_version": "4.0.3",
   "threads": 8,
   "iswitches": [
     "/SP-",
@@ -28,16 +28,10 @@
     "download_url": "https://downloads.jam-software.de/ultrasearch_free/UltraSearch-x64-Free-Setup.exe",
     "regex": "Version (\\d+\\.\\d+\\.\\d+)"
   },
-  "3.3.1": {
-    "url": "https://downloads.jam-software.de/ultrasearch_free/UltraSearch-x64-Free-Setup.exe",
-    "size": 14372536,
-    "checksum": "95E52DCBC76F6D59A41BDD87589F10EDBE7E0CF9CD8D546105737377FA081D2C",
-    "file_type": ".exe"
-  },
-  "3.1.2": {
-    "url": "https://downloads.jam-software.de/ultrasearch_free/UltraSearch-x64-Free-Setup.exe",
-    "size": 13248792,
-    "checksum": "7153D1B77E75FFF403A22AB2614A6413AE62F43A5BE2006C3ECCF8DA9FB025A5",
+  "4.0.3": {
+    "url": "https://downloads.jam-software.de/ultrasearch/UltraSearch-Setup.exe",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".exe"
   }
 }

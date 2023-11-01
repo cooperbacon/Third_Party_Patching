@@ -23,14 +23,8 @@
   },
   "7.2.17": {
     "url": "https://github.com/clipto-pro/Desktop/releases/download/v7.2.17/clipto-7.2.17.exe",
-    "size": 69518296,
-    "checksum": "5258899BFA826096A1484408E6E97CF94C728C44CCEF360980CA7F39793CAC71",
-    "file_type": ".exe"
-  },
-  "7.2.6": {
-    "url": "https://github.com/clipto-pro/Desktop/releases/download/v7.2.6/clipto-7.2.6.exe",
-    "size": 68989064,
-    "checksum": "2CF731B72DFC7FC39EF3E76AC83F8CD5748FDBB1DB468D4CDFA845220730A84C",
+    "size": 0,
+    "checksum": "0",
     "file_type": ".exe"
   }
 }

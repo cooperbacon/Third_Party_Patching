@@ -10,6 +10,18 @@ hidden_packages:
   - atom-portable
   - audacity-portable
   - autoruns
+  - everything-portable
+  - jdk8
+  - listary-portable
+  - microsoft-windows-terminal-preview
+  - paint.net
+  - pdf-xchange-editor-portable
+  - telegram-portable
+  - sublime-text-3
+  - sublime-text-4
+  - ultrasearch-portable
+  - wget
+  - wiztree-portable
 
 update_info:
   #google-chrome:
