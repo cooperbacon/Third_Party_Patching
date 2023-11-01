@@ -1,0 +1,32 @@
+{
+  "package_name": "visual-studio-2019-community",
+  "display_name": "Visual Studio Community 2019",
+  "aliases": [
+    "visual-studio-2019-community"
+  ],
+  "exec_name": "devenv",
+  "portable": false,
+  "creator": "Microsoft",
+  "description": "Powerful IDE, free for students, open-source contributers, and individuals.",
+  "latest_version": "16.11",
+  "threads": 8,
+  "iswitches": ["--passive", "--norestart"],
+  "uswitches": [],
+  "autoupdate": {
+    "download_page": "https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes",
+    "download_url": "https://aka.ms/vs/<major-version>/release/vs_community.exe",
+    "regex": "Visual Studio 2019 version (\\d+\\.\\d+) Release Notes"
+  },
+  "16.10": {
+    "url": "https://download.visualstudio.microsoft.com/download/pr/9665567e-f580-4acd-85f2-bc94a1db745f/e44597271957d6bdacdea127ff62455d536b6a9d9b8c34f10bc555800ba3e4e2/vs_Community.exe",
+    "size": 1465096,
+    "checksum": "E44597271957D6BDACDEA127FF62455D536B6A9D9B8C34F10BC555800BA3E4E2",
+    "file_type": ".exe"
+  },
+  "16.11": {
+    "url": "https://download.visualstudio.microsoft.com/download/pr/9665567e-f580-4acd-85f2-bc94a1db745f/e44597271957d6bdacdea127ff62455d536b6a9d9b8c34f10bc555800ba3e4e2/vs_Community.exe",
+    "size": 1465096,
+    "checksum": "E44597271957D6BDACDEA127FF62455D536B6A9D9B8C34F10BC555800BA3E4E2",
+    "file_type": ".exe"
+  }
+}
