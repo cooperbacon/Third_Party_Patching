@@ -16,6 +16,11 @@
   "uswitches": [
     "/S"
   ],
+  "autoupdate": {
+    "download_page": "https://www.videolan.org/vlc/download-windows.html",
+    "download_url": "https://mirror.clarkson.edu/videolan/vlc/<version>/win64/vlc-<version>-win64.exe",
+    "regex": "<span id='downloadVersion'>\\n\\s+(\\d+\\.\\d+\\.\\d+)"
+  },
   "3.0.18": {
     "url": "https://mirror.clarkson.edu/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe",
     "size": 0,
