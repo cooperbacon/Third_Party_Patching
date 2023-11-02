@@ -8,7 +8,7 @@
     "portable": false,
     "creator": "Brave Software Inc.",
     "description": "Brave is a free and open-source web browser",
-    "latest_version": "1.59.124",
+    "latest_version": "119.1.60.110",
     "threads": 8,
     "iswitches": [],
     "uswitches": [],
@@ -18,7 +18,7 @@
         "regex": "Release v(\\d+\\.\\d+\\.\\d+)"
     },
     "1.59.124": {
-        "url": "https://laptop-updates.brave.com/download/BOW954?bitness=64",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.60.110/BraveBrowserStandaloneSilentSetup.exe",
         "size": 0,
         "checksum": "0",
         "file_type": ".exe"
