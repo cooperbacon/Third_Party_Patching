@@ -22,6 +22,32 @@ hidden_packages:
   - ultrasearch-portable
   - wget
   - wiztree-portable
+  - 1-password
+  - aimp
+  - anaconda
+  - android-studio
+  - atom
+  - bazel
+  - beyondcompare
+  - blender
+  - brave
+  - clipto
+  - figma
+  - hyper
+  - inkscape
+  - itunes
+  - microsoft-teams
+  - microsoft-visual-c++-build-tools
+  - microsoft-windows-terminal
+  - vscode
+  - firefox
+  - opera
+  - python
+  - slack
+  - spotify
+  - stickies
+  - whatsapp
+  - zoom
 
 update_info:
   #google-chrome:
