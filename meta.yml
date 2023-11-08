@@ -44,6 +44,7 @@ hidden_packages:
   - spotify
   - stickies
   - whatsapp
+  - 1-password
 
 update_info:
   #google-chrome:
