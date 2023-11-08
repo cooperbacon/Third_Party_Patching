@@ -29,7 +29,6 @@ hidden_packages:
   - bazel
   - beyondcompare
   - blender
-  - brave
   - clipto
   - figma
   - hyper
