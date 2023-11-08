@@ -40,14 +40,11 @@ hidden_packages:
   - microsoft-visual-c++-build-tools
   - microsoft-windows-terminal
   - vscode
-  - firefox
   - opera
   - python
-  - slack
   - spotify
   - stickies
   - whatsapp
-  - zoom
 
 update_info:
   #google-chrome:
