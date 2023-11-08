@@ -22,7 +22,6 @@ hidden_packages:
   - ultrasearch-portable
   - wget
   - wiztree-portable
-  - 1-password
   - aimp
   - anaconda
   - android-studio
